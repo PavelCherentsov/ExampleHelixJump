@@ -24,7 +24,7 @@ public class BallTracking : MonoBehaviour
 
     private void Update()
     {
-        //if (_ball.transform.position.y < _minimumBallPosition.y)
+        if (_ball.transform.position.y < _minimumBallPosition.y)
         {
             TrackBall();
             _minimumBallPosition = _ball.transform.position;

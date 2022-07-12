@@ -155,7 +155,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 10f5bd97300834e48af8a6a309ea9d34, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _levelCount: 1
+  _levelCount: 100
   _beam: {fileID: 6081076723882062094, guid: 93faa25251286a643a5d1764c3f0e141, type: 3}
   _additinalScale: 3
   _startPlatform: {fileID: 8440518709109188639, guid: 14c5cdf29898c0b42b2244a5f7f13cc3, type: 3}
